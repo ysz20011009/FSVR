@@ -1,5 +1,5 @@
 # FSVR
-This is the release address of the LFVR dataset.
+This is the release address of the FSVR dataset.
 The directory structure of the dataset is as follows
 ```shell
   Dataset_ROOT_DIR/
