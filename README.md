@@ -20,6 +20,6 @@ The directory structure of the dataset is as follows
     	├── ...
   ```
 ## Download
-Note: To access the FSVR dataset, please send an email to yunyi@gnnu.edu.cn. The download link will be provided after completion.
+Note: To access the FSVR dataset, please sign the end user license and email to yunyi@gnnu.edu.cn. The download link will be provided after completion.
 
 
